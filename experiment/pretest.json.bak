@@ -1,0 +1,29 @@
+[
+    {
+        "question": "Discharge through rectangular channel is given by",
+        "qid": 1,
+        "option_a": "$$ AC \\sqrt{mi} $$",
+        "option_b": "$$ \\sqrt{mi} $$",
+        "option_c": "$$ A \\sqrt{mi} $$",
+        "option_d": "$$ AC \\sqrt{m} $$",
+        "correct_option": "a"
+    },
+    {
+        "question": "Bazin formula is",
+        "qid": 2,
+        "option_a": "$$ C = \\frac{185.5}{1.81 + \\frac{K}{\\sqrt{m}}} $$",
+        "option_b": "$$ C = \\frac{157.6}{4.81 + \\frac{K}{\\sqrt{m}}} $$",
+        "option_c": "$$ C = \\frac{157.6}{1.81 + \\frac{K}{\\sqrt{m}}} $$",
+        "option_d": "$$ C = \\frac{127.6}{1.81 + \\frac{K}{\\sqrt{m}}} $$",
+        "correct_option": "c"
+    },
+    {
+        "question": "Mannings formula is",
+        "qid": 3,
+        "option_a": "$$ C = \\frac{1}{N} m^{1/2} $$",
+        "option_b": "$$ C = \\frac{1}{N} m^{1/6} $$",
+        "option_c": "$$ C = \\frac{1}{m} m^{1/6} $$",
+        "option_d": "$$ C = \\frac{1}{N} N^{1/6} $$",
+        "correct_option": "b"
+    }
+]
